@@ -1,0 +1,64 @@
+#include<iostream>
+using namespace std;
+int main() 
+{
+
+	//int age = 15;
+	//string login = "Kika", pass = "19814", log, pas;
+	//cout << "Login        :     ";
+	//cin >> log;
+	//cout << "Password        :     ";
+	//cin >> pas;
+	//cout << "--------------" << endl;
+	//if (login == log) { cout << "Correct" << endl; }
+	//else cout << "Incorrect login";
+	//if (pass == pas) { cout << "Correct" << endl; }
+	//else cout << "Incorrect pass";
+
+
+
+
+	/*string p = "2281", p1;
+	cin >> p1;
+	cout << "---------" << endl;
+	if (p == p1) { cout << "all good" << endl << "the age is" << endl; }
+	else cout << "wrong";*/
+
+
+	//int atzime = 8, vecums = 15, augums = 205;
+
+
+	//cin >> atzime >> vecums >> augums;
+	//if (atzime >= 0 && atzime <= 10) { cout << "atzime ok" << endl; }
+	//else cout << "atzime wrong" << endl;
+	//if (vecums >= 0 && vecums <= 15) { cout << "vecuns ok" << endl; }
+	//else cout << "vecums wrong" << endl;
+	//if (augums  >= 0 && augums <= 10) { cout << "augums ok" << endl; }
+	//else cout << "augums wrong" << endl;
+	//int catage=33,dogsage=29;
+
+
+	//cin >> catage>>dogsage;
+
+	//if (catage > 0 && catage <= 25) { cout << "OK catage" << endl; }
+	//else cout << "unrealistic catage" << endl;
+
+	//if (dogsage > 0 && dogsage <= 30) { cout << "OK dogsage" << endl; }
+	//else cout << "unrealistic dogsage" << endl;
+
+	//cout << "Exit";
+
+
+
+
+
+	//int age = 12;
+
+	//cin >> age;
+	//if (age >= 0) { cout << "okay" << endl; }
+	//else cout << "unrealistic age" << endl;
+	//cout << "Exit";
+
+	
+
+}
